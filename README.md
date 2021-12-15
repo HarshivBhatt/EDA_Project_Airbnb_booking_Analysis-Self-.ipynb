@@ -5,5 +5,4 @@ host it can be an income source and for guest, it can be a destination for a sta
 for Airbnb is there are tons of data generated through the hosts and guests as well. So, to
 find the right direction according to marketing and find the correct business-driven solution
 we did the data analysis on 49,000 observations. Through which we identify many solutions
-related to pricing, location, and room types. We solved some questions related to location,
-room types, and pricing 
+related to pricing, location, and room types that we mentioned in this project.
